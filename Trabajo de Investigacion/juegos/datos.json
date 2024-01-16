@@ -1,0 +1,163 @@
+[
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quien pinto la Mona Lisa?",
+        "respuesta": "Leonardo Da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Angel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Cual es la Capital de California?",
+        "respuesta": "Sacramento",
+        "incorrecta1": "Los Angeles",
+        "incorrecta2": "San Diego",
+        "incorrecta3": "San Francisco",
+        "imagen": "https://resizer.glanacion.com/resizer/v2/burlingame-california-fue-seleccionada-como-la-J74FNVES6VHMJDFQ5OC5QAFP5Y.jpg?auth=85e8d4e2d27d9f09252e49aca172838ab0f838b276713841a9db9104394d53cc&width=768&quality=70&smart=false",
+        "object-fit": "cover"
+    }
+    ,
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De dónde es originario el pan con aceite y azúcar?",
+        "respuesta": "Andalucía",
+        "incorrecta1": "Valencia",
+        "incorrecta2": "Castilla La Mancha",
+        "incorrecta3": "Cataluña",
+        "imagen": "https://www.elnacional.cat/uploads/s1/19/59/12/93/pa-oli-sucre-pas000.jpeg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús?",
+        "respuesta": "Barrabás",
+        "incorrecta1": "Jordi Hurtado",
+        "incorrecta2": "José De Arimatea",
+        "incorrecta3": "Judas",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/GiveUsBarabbas.png/1200px-GiveUsBarabbas.png",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué ciencia se ocupa del clima?",
+        "respuesta": "Meteorología",
+        "incorrecta1": "Antropología",
+        "incorrecta2": "Geología",
+        "incorrecta3": "Física",
+        "imagen": "https://humanidades.com/wp-content/uploads/2019/02/meteorologia-e1551032915637.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Con qué sobrenombre apodó el Presidente de la FIFA a Cristiano Ronaldo?",
+        "respuesta": "El Comandante",
+        "incorrecta1": "El Coloso",
+        "incorrecta2": "El Chulito",
+        "incorrecta3": "O Reí",
+        "imagen": "https://imgmedia.libero.pe/652x359/libero/original/2022/01/17/61e5c373fa53e478360a58fe.webp",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama la técnica consistente en descender la temperatura del cuerpo humano por debajo de -190ºC?",
+        "respuesta": "Criogenización",
+        "incorrecta1": "Shock",
+        "incorrecta2": "Congelación",
+        "incorrecta3": "Solidificación",
+        "imagen": "https://www.consalud.es/saludigital/uploads/s1/22/56/58/criogenizacion_principal.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde vivía Ana Frank?",
+        "respuesta": "Ámsterdam",
+        "incorrecta1": "Viena",
+        "incorrecta2": "Berlín",
+        "incorrecta3": "Brujas",
+        "imagen": "https://www.annefrank.org/media/filer_public_thumbnails/filer_public/4b/08/4b08919c-6d3d-4fdf-898a-43e14a837ea4/zoom_video_header_still_-_landingspagina_in_het_kort.jpg__1280x1280_q85_ALIAS-limit_subsampling-2.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital del Principado de Andorra?",
+        "respuesta": "Andorra La Vella",
+        "incorrecta1": "Sant Julia De Loria",
+        "incorrecta2": "Santa Coloma",
+        "incorrecta3": "Escaldes Engordany",
+        "imagen": "https://www.estiber.com/blog/wp-content/uploads/2022/03/que-ver-andorra.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué siglo nació William Shakespeare?",
+        "respuesta": "XVI",
+        "incorrecta1": "XV",
+        "incorrecta2": "XIX",
+        "incorrecta3": "XVII",
+        "imagen": "https://i.ibb.co/bzrSyrs/image.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Bob Esponja",
+        "incorrecta1": "Patricio",
+        "incorrecta2": "Steve",
+        "incorrecta3": "Mario Bros",
+        "imagen": "https://i.ibb.co/vzfcWvv/bob-esponja-9564.png",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Dónde nació el Nobel español Vicente Aleixandre?",
+        "respuesta": "Sevilla",
+        "incorrecta1": "Alicante",
+        "incorrecta2": "La Coruña",
+        "incorrecta3": "Valladolid",
+        "imagen": "https://www.hoyesarte.com/wp-content/uploads/2020/04/vicente-aleixandre-1.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó dos veces tres campeonatos consecutivamente en la NBA?",
+        "respuesta": "Michael Jordán",
+        "incorrecta1": "Lebrón James",
+        "incorrecta2": "Brian Scalabrine",
+        "incorrecta3": "Bill Russel\r",
+        "imagen": "https://revistafortuna.com.mx/wp-content/uploads/2023/10/nba.jpeg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es la mascota de SEGA?",
+        "respuesta": "Sonic",
+        "incorrecta1": "Mario",
+        "incorrecta2": "Pac Man",
+        "incorrecta3": "Ryu\r",
+        "imagen": "https://niixer.com/wp-content/uploads/2021/02/Sega-logo.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos premios Grammy ha ganado Britney Spears?",
+        "respuesta": "Uno",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Ninguno\r",
+        "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/01/c4dd967a-b392-4994-8600-e79a7d3e22e3_alta-libre-aspect-ratio_default_0.jpg",
+        "object-fit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el protagonista de la saga Indiana Jones?",
+        "respuesta": "Harrison Ford",
+        "incorrecta1": "Jack Nicholson",
+        "incorrecta2": "Michael Fox",
+        "incorrecta3": "Robin Williams\r",
+        "imagen": "https://lumiere-a.akamaihd.net/v1/images/indiana_jones_c7a9d154.jpeg?region=2,0,550,309",
+        "object-fit": "cover"
+    }
+]

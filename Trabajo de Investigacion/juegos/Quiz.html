@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Preguntas</title>
+    <link rel="stylesheet" href="stylequiz.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.3/dist/sweetalert2.all.min.js"></script>
+</head>
+<body>
+    <div class="contenedor">
+        <div class="encabezado">
+            <div class="puntaje" id="puntaje"></div>
+            <div class="categoria" id="categoria">Categoria</div>
+            <div class="numero" id="numero"></div>
+            <div class="pregunta" id="pregunta">Pregunta</div>
+            <img src="" class="imagen" id="imagen">
+        </div>
+        <div class="btn" id="btn1" onclick="oprimir_btns(0) ">Opcion 1</div>
+        <div class="btn" id="btn2" onclick="oprimir_btns(1) ">Opcion 2</div>
+        <div class="btn" id="btn3" onclick="oprimir_btns(2) ">Opcion 3</div>
+        <div class="btn" id="btn4" onclick="oprimir_btns(3) ">Opcion 4</div>
+        <a href="/index.html" class="color-box" id="adultBox"><div>MENU</div></a>
+    </div>
+    <script src="Quiz.js"></script>
+</body>
+</html>

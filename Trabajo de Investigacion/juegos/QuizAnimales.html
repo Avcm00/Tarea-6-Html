@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Juego de multiplicación</title>
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<h1>JUEGO DE MULTIPLICACIÓN</h1>
+	<div class="container">
+		<div class="izquierdo">
+			<div class="container-operacion">
+			 	<span id="multiplicacion">9 x 9 =</span>
+			 	<span class="resultado" id="res"> 81</span>
+			 </div>
+			 <span class="msj" id="msj"></span>
+		</div>
+		<div class="derecha">
+			<span id="op01" class="opcion" onclick="quiz.controlarRespuesta(this)">81</span>
+            <span id="op02" class="opcion" onclick="quiz.controlarRespuesta(this)">72</span>
+            <span id="op03" class="opcion" onclick="quiz.controlarRespuesta(this)">64</span>
+		</div>
+	</div>
+	<a href="../Niños.html" class="color-box" id="adultBox"><div>MENU Niños</div></a>
+    <script src="script.js"></script>
+    <script>
+        let quiz = new Quiz();
+        quiz.comenzar();
+    </script>
+    
+
+</body>
+</html>
+
